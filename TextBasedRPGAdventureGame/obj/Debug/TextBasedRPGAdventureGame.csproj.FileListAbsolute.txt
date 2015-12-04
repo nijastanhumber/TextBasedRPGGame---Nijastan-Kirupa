@@ -1,0 +1,6 @@
+C:\Users\Nijastan\Desktop\Game Programming\programming c#\TextBasedRPGAdventureGame\TextBasedRPGAdventureGame\bin\Debug\TextBasedRPGAdventureGame.exe.config
+C:\Users\Nijastan\Desktop\Game Programming\programming c#\TextBasedRPGAdventureGame\TextBasedRPGAdventureGame\bin\Debug\TextBasedRPGAdventureGame.exe
+C:\Users\Nijastan\Desktop\Game Programming\programming c#\TextBasedRPGAdventureGame\TextBasedRPGAdventureGame\bin\Debug\TextBasedRPGAdventureGame.pdb
+C:\Users\Nijastan\Desktop\Game Programming\programming c#\TextBasedRPGAdventureGame\TextBasedRPGAdventureGame\obj\Debug\TextBasedRPGAdventureGame.csprojResolveAssemblyReference.cache
+C:\Users\Nijastan\Desktop\Game Programming\programming c#\TextBasedRPGAdventureGame\TextBasedRPGAdventureGame\obj\Debug\TextBasedRPGAdventureGame.exe
+C:\Users\Nijastan\Desktop\Game Programming\programming c#\TextBasedRPGAdventureGame\TextBasedRPGAdventureGame\obj\Debug\TextBasedRPGAdventureGame.pdb
